@@ -20,6 +20,7 @@ If you find meaningful errors in the code or have questions or suggestions, plea
 
 
 ### Data
+[Link to Dryad repo with all the replication data](https://doi.org/10.5061/dryad.76hdr7t30)
 
 * **data/tc**
     * ***duration*** &emsp;tropical cyclone exposure assuming up to 6 hours, 12 hours and no limit on duration of overland sustained wind. The temporal resolution is 3 hour. The files follow a structured naming convention:   
@@ -46,6 +47,7 @@ If you find meaningful errors in the code or have questions or suggestions, plea
 
     * ***ibtracs_data_1989_2019.csv*** &emsp; historical tropical cyclone tracks, derived from IBTrACS dataset. The tracks are used in Figure 1.
 
+
 ### Scripts 
 Python files calculate intermediate data that is used to generate the figures
 
@@ -67,7 +69,6 @@ R files (plot_Figure*.R) generate the figures in the paper and write them to fig
 
 ## Code/Software
 Scripts were written in Python 3.6.1 and R 4.2.3.
-[Link to Dryad repo with all the replication data](https://doi.org/10.5061/dryad.76hdr7t30)
 
 
 ### Python packages required
