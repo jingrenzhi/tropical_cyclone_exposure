@@ -88,12 +88,15 @@ Scripts were written in Python 3.6.1 and R 4.2.3.
 * **multiprocessing** for parallel computing
 
 ### R packages required
-* **classInt**
-* **fields**
-* **lfe**
-* **multcomp**
-* **maptools**
-* **plotrix**
-* **splines**
+* **ggplot2**
+* **pracma**
+* **scales**
+* **dplyr**
+* **tidyr**
 * **tidyverse**
+* **reshape2**
+* **sf** 
+* **sp**
+* **MetBrewer**
+
 
