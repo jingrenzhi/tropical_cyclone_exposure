@@ -65,11 +65,9 @@ R files (plot_Figure*.R) generate the figures in the paper and write them to fig
 * Script plot_FigureED5.R generates Figure ED5.
 
 
-### Tables
-
-Script 13 estimates the results shown in Table ED1.
-
-
+## Code/Software
+Scripts were written in Python 3.6.1 and R 4.2.3.
+[Link to Dryad repo with all the replication data](https://doi.org/10.5061/dryad.76hdr7t30)
 
 
 ### Python packages required
@@ -97,6 +95,4 @@ Script 13 estimates the results shown in Table ED1.
 * **plotrix**
 * **splines**
 * **tidyverse**
-
-Scripts were written in Python 3.6.1 and R 4.2.3.
 
