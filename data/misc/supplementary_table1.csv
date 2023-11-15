@@ -1,0 +1,115 @@
+,country,avg_person_day,share,avg_rdi,rdi_rate
+1,China,149609376,33.14,26.15,1
+2,Japan,85171954,18.86,21.49,0.65
+3,Philippines,44489476,9.85,50.52,0.74
+4,Taiwan,42130698,9.33,20.92,0.49
+5,United States,19794191,4.38,26.88,0.79
+6,South Korea,19086826,4.23,16.66,1.45
+7,India,15560018,3.45,56.86,0.91
+8,Bangladesh,12690328,2.81,62.93,1.05
+9,Vietnam,11023809,2.44,39.66,1.12
+10,Hong Kong (China),4692229,1.04,NA,NA
+11,North Korea,4547282,1.01,67.23,1.11
+12,Haiti,4362345,0.97,74.19,1.14
+13,Cuba,4338338,0.96,38.84,1.35
+14,Madagascar,3575019,0.79,81.21,0.88
+15,Thailand,3208681,0.71,NA,NA
+16,Mexico,2968848,0.66,36.44,1.24
+17,Dominican Republic,2737083,0.61,NA,NA
+18,Ireland,2121311,0.47,35.84,1.2
+19,United Kingdom,2027317,0.45,NA,NA
+20,Puerto Rico,1584440,0.35,41.8,1.13
+21,Mozambique,1389499,0.31,78.04,0.95
+22,Jamaica,1259490,0.28,45.24,0.75
+23,Myanmar,1278484,0.28,58.29,1.13
+24,Mauritius,900290,0.2,NA,NA
+25,Reunion,904491,0.2,NA,NA
+26,Canada,814966,0.18,25.78,1.47
+27,Spain,807365,0.18,NA,NA
+28,Cambodia,628120,0.14,NA,NA
+29,Brazil,604836,0.13,NA,NA
+30,Malaysia,515507,0.11,NA,NA
+31,New Zealand,507205,0.11,NA,NA
+32,Morocco,398596,0.09,NA,NA
+33,Portugal,426888,0.09,23.63,2.01
+34,Fiji,357481,0.08,NA,NA
+35,Yemen,342836,0.08,NA,NA
+36,Oman,311075,0.07,33.79,1.09
+37,Comoros,277554,0.06,NA,NA
+38,Macau (China),264698,0.06,NA,NA
+39,Norway,229929,0.05,NA,NA
+40,The Bahamas,232522,0.05,NA,NA
+41,Guadeloupe,174788,0.04,NA,NA
+42,Guam,202373,0.04,NA,NA
+43,Laos,197374,0.04,72.38,1.17
+44,Somalia,161413,0.04,89.33,1.09
+45,Trinidad & Tobago,189882,0.04,NA,NA
+46,Martinique,152070,0.03,NA,NA
+47,Samoa,136371,0.03,NA,NA
+48,Australia,91203,0.02,31.37,1.32
+49,Barbados,82450,0.02,NA,NA
+50,Belize,70150,0.02,NA,NA
+51,Costa Rica,84150,0.02,37.3,1.8
+52,France,79958,0.02,NA,NA
+53,Iceland,99960,0.02,NA,NA
+54,Indonesia,92935,0.02,NA,NA
+55,Nicaragua,108046,0.02,60.49,1.42
+56,Russia,100978,0.02,NA,NA
+57,Sri Lanka,98576,0.02,NA,NA
+58,Vanuatu,88656,0.02,NA,NA
+59,American Samoa (Eastern Samoa),23423,0.01,NA,NA
+60,Antigua & Barbuda,36353,0.01,NA,NA
+61,Bermuda,39375,0.01,NA,NA
+62,Cape Verde,27240,0.01,NA,NA
+63,Cayman Is.,35442,0.01,NA,NA
+64,Colombia,28007,0.01,NA,NA
+65,Dominica,25130,0.01,NA,NA
+66,Grenada,23075,0.01,NA,NA
+67,Honduras,55694,0.01,59.44,1.16
+68,Iran,54778,0.01,NA,NA
+69,Isle of Man,25889,0.01,NA,NA
+70,New Caledonia,66528,0.01,NA,NA
+71,Northern Mariana Is.,51455,0.01,NA,NA
+72,Pakistan,59523,0.01,NA,NA
+73,Papua New Guinea,43461,0.01,NA,NA
+74,Saint Martin (France),22690,0.01,NA,NA
+75,St. Kitts & Nevis,25508,0.01,NA,NA
+76,St. Lucia,67489,0.01,NA,NA
+77,St. Vincent & the Grenadines,33853,0.01,NA,NA
+78,Tonga,29868,0.01,NA,NA
+79,Turks & Caicos Is.,25881,0.01,NA,NA
+80,Venezuela,44975,0.01,NA,NA
+81,Virgin Is.,39521,0.01,NA,NA
+82,Anguilla,6236,0,NA,NA
+83,Aruba,20490,0,NA,NA
+84,Bonaire (Neth),2015,0,NA,NA
+85,British Virgin Is.,10461,0,NA,NA
+86,Christmas I.,671,0,NA,NA
+87,Cocos Is.,19,0,NA,NA
+88,Cook Is.,2962,0,NA,NA
+89,Denmark,481,0,NA,NA
+90,El Salvador,7343,0,NA,NA
+91,Faroe Is.,10517,0,NA,NA
+92,French Polynesia,3744,0,NA,NA
+93,Greenland,2249,0,NA,NA
+94,Guatemala,20687,0,63.61,1.25
+95,Guernsey,10793,0,NA,NA
+99,Jersey,632,0,NA,NA
+100,Marshall Is.,5,0,NA,NA
+101,Mayotte,22201,0,NA,NA
+102,Micronesia,6961,0,NA,NA
+103,Montserrat,2124,0,NA,NA
+104,Netherlands Antilles,22129,0,NA,NA
+105,Niue,727,0,NA,NA
+106,Palau,4703,0,NA,NA
+107,Saba (Neth),827,0,NA,NA
+108,Saint Barthelemy (France),4361,0,NA,NA
+109,Seychelles,3,0,NA,NA
+110,Sint Eustatius (Neth),1873,0,NA,NA
+111,Sint Maarten (Neth),14714,0,NA,NA
+112,Solomon Is.,1641,0,NA,NA
+113,South Africa,10711,0,NA,NA
+114,St. Pierre & Miquelon,3164,0,NA,NA
+115,Sweden,13252,0,NA,NA
+116,Wallis & Futuna,4740,0,NA,NA
+117,Zimbabwe,3967,0,NA,NA
